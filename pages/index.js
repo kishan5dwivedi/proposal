@@ -165,7 +165,7 @@ export default function Home()
               Location
             </h2>
             <h3 className='w-2/3 text-black opacity-90 font-bold text-2xl'>
-              pallavi's heart
+              pallavi&apos;s heart
             </h3>
             <h2 className='w-2/3 text-black opacity-75 font-bold italic text-2xl'>
               Time
